@@ -11,6 +11,7 @@ namespace Basic_Concepts
     {
         public static void Main(String[] args)
         {
+            //console -> class, writeline -> metod
             Console.WriteLine("Welcome to C-Sharp");
         } 
     }
