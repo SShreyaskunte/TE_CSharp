@@ -30,15 +30,15 @@ namespace Basic_Concepts
             Console.WriteLine("I am {0} and my age is {1}", e, a);
 
             //accept input
-            //int empid;
-            //string empname;
-            //Console.WriteLine("EM Details : ");
-            //Console.WriteLine("EM ID : ");
-            //empid = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("EM Name : ");
-            //empname = Console.ReadLine();
-            //Console.WriteLine($"{empname}'s id is {empid}");
-            //Console.WriteLine("-------------------------------------");
+            int empid;
+            string empname;
+            Console.WriteLine("EM Details : ");
+            Console.WriteLine("EM ID : ");
+            empid = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("EM Name : ");
+            empname = Console.ReadLine();
+            Console.WriteLine($"{empname}'s id is {empid}");
+            Console.WriteLine("-------------------------------------");
 
             //Functions
             //MATH
