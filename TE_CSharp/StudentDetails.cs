@@ -15,12 +15,12 @@ namespace TE_CSharp
             string name;
             string dept;
             StDetails(out id, out name, out dept);
-            Console.WriteLine();
+            Console.WriteLine(name +"'s id is : "+id+" and department is : "+dept);
         }
 
         public static void StDetails(out int SId, out string SName, out string SDept)
         {
-            SId = 1;
+            SId = 101;
             SName = "Shreyas";
             SDept = "CSE";
         }

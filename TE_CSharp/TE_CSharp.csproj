@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>TE_CSharp.Abstraction</StartupObject>
+    <StartupObject>TE_CSharp.AcessSpecifiersAssingment</StartupObject>
   </PropertyGroup>
 
 </Project>
