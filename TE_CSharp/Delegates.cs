@@ -18,7 +18,7 @@ namespace TE_CSharp
         }
         public void GetTestingLeadDetails(int empid, string empname)
         {
-            Console.WriteLine($"Tetsing : {empid} : {empname}");
+            Console.WriteLine($"Testsing : {empid} : {empname}");
         }
     }
     internal class Delegates
